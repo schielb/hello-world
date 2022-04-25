@@ -1,1 +1,3 @@
-This is a further test to better understand how branches work. Created 10 AM May 19th
+This is a further test to better understand how branches work. Created 10 AM May 19th 2020
+
+Update on April 24 2022 - I have just created two new linux accounts on a home computer and a pi. Modifying this file on the pi using ssh remote from the home.
